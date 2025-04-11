@@ -66,7 +66,7 @@ LoginAuth/
 1. Clone the repository:
    ```bash
    git clone https://github.com/itaobong/basic-login-auth
-   cd LoginAuth
+   cd basic-login-auth
    ```
 
 2. Install the .NET EF Core tools (if not already installed):
